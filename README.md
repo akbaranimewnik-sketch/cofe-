@@ -61,3 +61,4 @@ Zamonaviy, nafis va yuqori darajadagi **HTML, CSS, JavaScript va React** da yara
 
 Tayyor loyiha fayllari `dist/` papkasiga to'liq yig'ilgan (build qilingan).
 
+# cofe-
